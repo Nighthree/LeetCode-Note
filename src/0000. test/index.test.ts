@@ -1,7 +1,7 @@
 import TestFn from './index';
 
 describe('base describe', () => {
-  it('base it', () => {
+  it('Case 1', () => {
     expect(TestFn()).toBe('test');
   });
 });
