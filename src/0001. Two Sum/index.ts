@@ -1,0 +1,19 @@
+// https://leetcode.com/problems/two-sum/
+
+function twoSum(nums: number[], target: number): number[] {
+  let state = false;
+  let result: number[] = []
+
+  for (let i = 0; i <nums.length ;i++) {
+    let num = nums[i];
+
+    // for(let j= i+1; j< nums.length ; j++){
+    //   if( )
+    // }
+  }
+
+  console.log(1)
+
+
+  return result
+};
