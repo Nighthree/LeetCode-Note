@@ -14,6 +14,8 @@ output:[24,12,8,6]
 `output[3]` 等於 `1*2*3 = 6`
 ```
 
+提示: 計算右左兩側乘積
+
 <iframe height="300" style="width: 100%;" scrolling="no" title="Leetcode 238" src="https://codepen.io/Nighthree/embed/QWPKJZg?default-tab=html%2Cresult&theme-id=dark" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
   See the Pen <a href="https://codepen.io/Nighthree/pen/QWPKJZg">
   Leetcode 238</a> by Nighthree (<a href="https://codepen.io/Nighthree">@Nighthree</a>)

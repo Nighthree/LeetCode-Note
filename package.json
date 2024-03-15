@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "jest --coverage",
+    "testf": "sh test.sh",
     "prepare": "husky"
   },
   "keywords": [],
