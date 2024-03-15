@@ -1,4 +1,5 @@
 # Leecode TypeScript 解題紀錄
+[個人紀錄](https://leetcode.com/jenny60538/)
 
  > 很多時候使用迴圈包迴圈，會容易在 leetcode submint 時出錯，除了表面上看到的 example，背後運行的 test case 會用到很極端的例子，突破前端認知
 
@@ -6,6 +7,7 @@
  - 跳過太深太專業的問題
 
 ## 其他
+[9](./src/0009.%20Palindrome%20Number/README.md): Todo 挑戰不使用字串轉換
 [238](./src/0238.%20Product%20of%20Array%20Except%20Self/README.md): 不太熟練
 
 ## jest 部屬
