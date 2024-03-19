@@ -7,7 +7,7 @@
  - 跳過太深太專業的問題
  - 每個資料夾 README 紀錄解題筆記
 
-## 暫時調過
+## 暫時跳過
  - [3](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
  - [5](https://leetcode.com/problems/longest-palindromic-substring/)
  - [6](https://leetcode.com/problems/longest-palindromic-substring/)
